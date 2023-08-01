@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "discord.js": "^14.12.0",
+    "dotenv": "^16.3.1"
+  },
+  "name": "bot-discord",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot discord"
+  ],
+  "author": "Kaique Vieira",
+  "license": "ISC",
+  "description": "Bot Discord para estudos."
+}
